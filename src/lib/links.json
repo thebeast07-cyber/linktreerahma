@@ -1,55 +1,22 @@
 [
   {
-    "label": "Landing page Bio.links",
-    "categoryId": "projects",
-    "url": "https://tinu.be/lpBioLinks"
+    "label": "WhatsApp Booking",
+    "categoryId": "booking",
+    "url": "https://wa.me/6282228132455?text=Halo%20Rahma%20Seserahan,%20saya%20ingin%20konsultasi%20paket%20🙏"
   },
-
   {
-    "label": "Repositório com o código do projeto Bio.links",
-    "categoryId": "projects",
-    "url": "https://tinu.be/linksforall"
+    "label": "Pricelist Paket",
+    "categoryId": "paket",
+    "url": "https://drive.google.com/your-pricelist"
   },
-
   {
-    "label": "Figma com UI do projeto Bio.links dev",
-    "categoryId": "projects",
-    "url": "https://tinu.be/uilinks"
+    "label": "Instagram",
+    "categoryId": "sosmed",
+    "url": "https://www.instagram.com/rahmaseserahan.demak/"
   },
-
   {
-    "label": "Notion com dicas de performance web/mobile",
-    "categoryId": "articles",
-    "url": "https://tinu.be/cssperf"
-  },
-
-  {
-    "label": "[Indicação] Dicas e boas práticas de UI Design com Chief of Design",
-    "categoryId": "videos",
-    "url": "https://tinu.be/qeIBeN_W4"
-  },
-
-  {
-    "label": "tinu.be - encurtador de url open-source",
-    "categoryId": "projects",
-    "url": "https://tinu.be"
-  },
-
-  {
-    "label": "Da teoria à prática: Criando um produto",
-    "categoryId": "articles",
-    "url": "https://tinu.be/tinubepost"
-  },
-
-  {
-    "label": "A história por trás da landing page de planos da Nuvemshop",
-    "categoryId": "articles",
-    "url": "https://tinu.be/plansnuvem"
-  },
-
-  {
-    "label": "[ES] La historia detrás de la landing page de planes y precios de Tiendanube",
-    "categoryId": "articles",
-    "url": "https://tinu.be/planstiendanube"
+    "label": "TikTok",
+    "categoryId": "sosmed",
+    "url": "https://tiktok.com/@rahmaseserahan"
   }
 ]

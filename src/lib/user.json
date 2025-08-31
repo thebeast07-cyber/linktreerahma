@@ -1,6 +1,12 @@
 {
   "name": "Rahma Seserahan",
+  "fullname": "Rahma Seserahan",
   "bio": "Seserahan • Mahar • Ringbox — Demak | Kudus | Semarang",
   "avatarUrl": "/avatar.png",
-  "linksTitle": "Link Utama"
+  "linksTitle": "Link Utama",
+  "socialLinks": [
+    { "label": "WhatsApp",  "url": "https://wa.me/6282228132455" },
+    { "label": "Instagram", "url": "https://www.instagram.com/rahmaseserahan.demak/" },
+    { "label": "TikTok",    "url": "https://tiktok.com/@rahmaseserahan" }
+  ]
 }

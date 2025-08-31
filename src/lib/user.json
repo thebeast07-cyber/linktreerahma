@@ -4,9 +4,9 @@
   "bio": "Seserahan • Mahar • Ringbox — Demak | Kudus | Semarang",
   "avatarUrl": "/avatar.png",
   "linksTitle": "Link Utama",
-  "socialLinks": [
-    { "label": "WhatsApp",  "url": "https://wa.me/6282228132455" },
-    { "label": "Instagram", "url": "https://www.instagram.com/rahmaseserahan.demak/" },
-    { "label": "TikTok",    "url": "https://tiktok.com/@rahmaseserahan" }
-  ]
+  "socialLinks": {
+    "whatsapp": "https://wa.me/6282228132455",
+    "instagram": "https://www.instagram.com/rahmaseserahan.demak/",
+    "tiktok": "https://tiktok.com/@rahmaseserahan"
+  }
 }
